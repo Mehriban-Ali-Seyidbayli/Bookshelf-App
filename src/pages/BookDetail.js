@@ -35,7 +35,7 @@ const BookDetail = () => {
             <div className="container my-5">
                 <h3>Book name: {myBook.name}</h3>
                 <h3>Author: {myBook.author}</h3>
-                <h3>Price: {myBook.price}</h3>
+                <h3>Price: {myBook.price}&#36;</h3>
                 <h3>Publisher: {myBook.publisher}</h3>
                 <h3>ISBN: {myBook.isbn}</h3>
                 <h3>Category: {bookCategory.name}</h3>

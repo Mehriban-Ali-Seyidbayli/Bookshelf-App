@@ -111,7 +111,7 @@ const EditBook = () => {
                             ISBN
                         </label>
                         <input
-                            type="number"
+                            type="text"
                             className="form-control"
                             id="isbn"
                             placeholder="isbn"

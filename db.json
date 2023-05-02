@@ -1,13 +1,13 @@
 {
   "books": [
     {
-      "id": "1683017977045",
-      "name": "gdfd",
-      "author": "gdgds",
-      "publisher": "gdgd",
-      "isbn": "454545",
-      "price": 5745,
-      "categoryId": "1683017940324"
+      "id": "1683053775876",
+      "name": "Lord of the Flies ",
+      "author": "William Gerald Golding ",
+      "publisher": "xxxxxxxed",
+      "isbn": "978-5-17-114254-4",
+      "price": 5.99,
+      "categoryId": "1682946161544"
     }
   ],
   "categories": [
@@ -16,12 +16,8 @@
       "name": "novel"
     },
     {
-      "id": "1683017932053",
-      "name": "poem"
-    },
-    {
-      "id": "1683017940324",
-      "name": "bedii edeb"
+      "id": "1683054191555",
+      "name": "story"
     }
   ]
 }
