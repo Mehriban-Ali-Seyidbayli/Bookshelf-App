@@ -1,4 +1,22 @@
-.App {
+body {
+  background-color: rgb(225, 227, 240);
+}
+
+header {
+  background-color: rgb(106, 39, 230);
+}
+
+input[type="text"] {
+  background-color: rgb(244, 244, 248);
+}
+form {
+  width: 50vw;
+}
+thead {
+  font-size: 20px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +53,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

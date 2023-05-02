@@ -1,0 +1,27 @@
+{
+  "books": [
+    {
+      "id": "1683017977045",
+      "name": "gdfd",
+      "author": "gdgds",
+      "publisher": "gdgd",
+      "isbn": "454545",
+      "price": 5745,
+      "categoryId": "1683017940324"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1682946161544",
+      "name": "novel"
+    },
+    {
+      "id": "1683017932053",
+      "name": "poem"
+    },
+    {
+      "id": "1683017940324",
+      "name": "bedii edeb"
+    }
+  ]
+}
