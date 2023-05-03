@@ -1,20 +1,6 @@
 {
-  "books": [
-    {
-      "id": "1683053775876",
-      "name": "Lord of the Flies ",
-      "author": "William Gerald Golding ",
-      "publisher": "xxxxxxxed",
-      "isbn": "978-5-17-114254-4",
-      "price": 5.99,
-      "categoryId": "1682946161544"
-    }
-  ],
+  "books": [],
   "categories": [
-    {
-      "id": "1682946161544",
-      "name": "novel"
-    },
     {
       "id": "1683054191555",
       "name": "story"
